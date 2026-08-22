@@ -1,0 +1,5 @@
+node_modules/
+.env
+build/
+_mockup_source/
+.claude/

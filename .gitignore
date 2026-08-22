@@ -1,0 +1,40 @@
+# ── Dependencies ─────────────────────────────────────────────
+node_modules/
+**/node_modules/
+
+# ── Secrets / env (belt-and-suspenders; never commit real keys) ─
+.env
+**/.env
+.env.local
+**/.env.local
+.env.*.local
+**/.env.*.local
+# keep the templates
+!.env.example
+!**/.env.example
+
+# ── Builds / outputs ─────────────────────────────────────────
+build/
+**/build/
+dist/
+**/dist/
+coverage/
+**/coverage/
+
+# ── Backend runtime uploads (local multer files, if any) ─────
+Backend/uploads/
+
+# ── Editor / tool folders ────────────────────────────────────
+.claude/
+**/.claude/
+.vscode/
+.idea/
+
+# ── OS / misc junk ───────────────────────────────────────────
+.DS_Store
+**/.DS_Store
+*.log
+npm-debug.log*
+
+# ── Project-local archives (don't ship the zip backup) ───────
+*.zip

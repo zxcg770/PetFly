@@ -1,0 +1,224 @@
+[
+  {
+    "id": 0,
+    "text": "# Pet Import Regulations — China\n\n## Overview\nChina has strict pet import requirements. All dogs and cats entering China must meet microchip, vaccination, titer test, and health certificate requirements. Quarantine on arrival is mandatory.",
+    "country": "china",
+    "source": "china_import.md"
+  },
+  {
+    "id": 1,
+    "text": "## Required Documents\n- Microchip certificate\n- Rabies vaccination record\n- Rabies titer test result (from approved laboratory)\n- Official health certificate endorsed by national authority\n- Import permit (in some cases — check with destination city authority)",
+    "country": "china",
+    "source": "china_import.md"
+  },
+  {
+    "id": 2,
+    "text": "## Microchip Requirements\n- Standard: ISO 11784/11785\n- The microchip must be implanted before any vaccinations are administered\n- If the microchip is implanted after the first rabies vaccination, the vaccination series must be restarted",
+    "country": "china",
+    "source": "china_import.md"
+  },
+  {
+    "id": 3,
+    "text": "## Vaccination Requirements\n- Rabies vaccination is mandatory for all dogs and cats\n- The vaccination must be administered after microchip implantation\n- First-time (primary) vaccinations must be given at least 30 days before the date of travel\n- The vaccination must be valid — not expired — at time of entry\n- Typical validity: 1 year for annual vaccines, 3 years for triennial vaccines (check your specific product)",
+    "country": "china",
+    "source": "china_import.md"
+  },
+  {
+    "id": 4,
+    "text": "## Rabies Titer Test\n- A rabies antibody titer test is required for all dogs and cats entering China\n- Blood sample must be drawn at least 30 days after the rabies vaccination\n- The result must show an antibody level of at least 0.5 IU/ml\n- The test must be performed at a laboratory approved by the Chinese authorities\n- The titer test result must be presented alongside the health certificate",
+    "country": "china",
+    "source": "china_import.md"
+  },
+  {
+    "id": 5,
+    "text": "## Health Certificate\n- Must be issued by an accredited (official) veterinarian\n- Must be issued within 10 days of the travel date\n- Must be endorsed/stamped by the national competent authority (e.g. USDA APHIS in the US, APHA in the UK, BVET in Germany)\n- The certificate must list: microchip number, vaccination dates, titer test result, owner details, and destination",
+    "country": "china",
+    "source": "china_import.md"
+  },
+  {
+    "id": 6,
+    "text": "## Quarantine Rules\n- All dogs and cats entering China are subject to mandatory quarantine inspection at the port of entry\n- Standard quarantine period: 7 days at a government-designated quarantine facility\n- The quarantine period can be extended up to 30 days if documentation is incomplete or the animal shows signs of illness\n- The owner is responsible for all quarantine costs (facility fees, veterinary inspections)\n- Owners cannot stay with their pet during quarantine",
+    "country": "china",
+    "source": "china_import.md"
+  },
+  {
+    "id": 7,
+    "text": "## Approved Entry Ports\n- Not all international airports in China accept imported pets\n- Approved entry ports include: Beijing Capital International Airport, Shanghai Pudong International Airport, Guangzhou Baiyun International Airport\n- Always confirm with your airline and the Chinese customs authority before booking",
+    "country": "china",
+    "source": "china_import.md"
+  },
+  {
+    "id": 8,
+    "text": "## Breed Restrictions\n- Certain dog breeds are subject to restrictions or bans in major Chinese cities\n- Beijing bans dogs with a shoulder height above 35cm in urban districts\n- Check the specific regulations for your destination city before travel",
+    "country": "china",
+    "source": "china_import.md"
+  },
+  {
+    "id": 9,
+    "text": "## Airline Policies\nAirline pet policies vary widely and are separate from government import regulations — both must be satisfied.\n- **Air China**: Does not allow pets in the cabin on international flights. Pets must travel as checked baggage or air cargo, in an IATA-approved travel crate.",
+    "country": "china",
+    "source": "china_import.md"
+  },
+  {
+    "id": 10,
+    "text": "- **Lufthansa**: Allows small dogs and cats in the cabin (in an IATA-approved carrier under the seat) on flights to China, subject to a combined pet + carrier weight limit (typically around 8 kg). Larger pets travel as checked baggage.\n- **China Eastern / China Southern**: Generally do not allow pets in the cabin on international routes; pets travel as checked baggage or cargo, similar to Air China.",
+    "country": "china",
+    "source": "china_import.md"
+  },
+  {
+    "id": 11,
+    "text": "- Always confirm the current cabin/cargo policy, carrier size limits, and any advance booking requirements directly with the airline — policies can change and may differ by route.",
+    "country": "china",
+    "source": "china_import.md"
+  },
+  {
+    "id": 12,
+    "text": "## Important Warnings\n- Start the process at least 3–4 months before travel — the titer test alone requires 30 days after vaccination, plus lab processing time\n- Health certificates expire quickly (10-day window) — book your vet appointment as close to departure as possible\n- Always verify current requirements with the Chinese embassy or consulate in your country, as regulations can change",
+    "country": "china",
+    "source": "china_import.md"
+  },
+  {
+    "id": 13,
+    "text": "## Sources\n- General Customs Administration of the People's Republic of China (GACC)\n- Chinese embassy/consulate official guidance",
+    "country": "china",
+    "source": "china_import.md"
+  },
+  {
+    "id": 14,
+    "text": "# Pet Import Regulations — Germany\n\n## Overview\nGermany follows EU pet travel rules. Dogs, cats, and ferrets entering Germany must have a valid EU pet passport, a microchip, and an up-to-date rabies vaccination. Dogs may also require tapeworm treatment depending on their country of origin. No quarantine is required for compliant pets.",
+    "country": "germany",
+    "source": "germany_import.md"
+  },
+  {
+    "id": 15,
+    "text": "## Required Documents\n- EU pet passport (mandatory for dogs, cats, and ferrets)\n- Microchip certificate (recorded in the passport)\n- Rabies vaccination record (recorded in the passport)\n- Tapeworm treatment record (dogs only, depending on origin country)",
+    "country": "germany",
+    "source": "germany_import.md"
+  },
+  {
+    "id": 16,
+    "text": "## Microchip Requirements\n- Standard: ISO 11784/11785\n- The microchip must be implanted before or at the same time as the first rabies vaccination\n- If the microchip is implanted after the first rabies vaccination, the vaccination must be repeated after the microchip is in place",
+    "country": "germany",
+    "source": "germany_import.md"
+  },
+  {
+    "id": 17,
+    "text": "## EU Pet Passport\n- All dogs, cats, and ferrets entering Germany must have a valid EU pet passport\n- The passport must be issued by an authorised veterinarian in an EU member state\n- It must contain: microchip number, owner details, vaccination records, and treatment records\n- Pets from non-EU countries require a third-country equivalent document that meets EU standards",
+    "country": "germany",
+    "source": "germany_import.md"
+  },
+  {
+    "id": 18,
+    "text": "## Vaccination Requirements\n- Rabies vaccination is mandatory\n- The primary vaccination is only valid after a 21-day waiting period from the date of administration\n- Booster vaccinations must be given before the previous vaccination expires\n- Typical validity: 1 year or 3 years depending on the vaccine product used\n- The vaccination date and expiry must be recorded in the EU pet passport",
+    "country": "germany",
+    "source": "germany_import.md"
+  },
+  {
+    "id": 19,
+    "text": "## Tapeworm Treatment (Dogs Only)\n- Required for dogs entering Germany from certain non-EU countries and some EU countries with specific risk profiles\n- Must be administered between 1 and 5 days before arrival in Germany\n- The active ingredient must be praziquantel (minimum 50mg) or equivalent\n- The treatment date, product name, and veterinarian's signature must be recorded in the pet passport",
+    "country": "germany",
+    "source": "germany_import.md"
+  },
+  {
+    "id": 20,
+    "text": "- Dogs travelling only within the EU (e.g. from France to Germany) are generally exempt, but check the specific origin country",
+    "country": "germany",
+    "source": "germany_import.md"
+  },
+  {
+    "id": 21,
+    "text": "## Quarantine Rules\n- No quarantine is required for pets entering with a valid EU pet passport and complete documentation\n- Pets from high-risk rabies countries may be subject to additional checks at the border\n\n## Age Restrictions\n- Puppies and kittens must be at least 15 weeks old to enter Germany\n- This is calculated as: 12 weeks minimum age for primary vaccination + 21-day waiting period\n- Younger animals cannot be legally imported, even with documentation",
+    "country": "germany",
+    "source": "germany_import.md"
+  },
+  {
+    "id": 22,
+    "text": "## Non-EU Pets\n- Pets from non-EU countries must meet additional requirements\n- A rabies antibody titer test may be required depending on the origin country's risk classification\n- The titer test must show a result of at least 0.5 IU/ml\n- A 3-month waiting period after a successful titer test may apply for high-risk countries",
+    "country": "germany",
+    "source": "germany_import.md"
+  },
+  {
+    "id": 23,
+    "text": "## Airline Policies\nAirline pet policies vary widely and are separate from government import regulations — both must be satisfied.\n- **Lufthansa**: Allows small dogs and cats in the cabin (in an IATA-approved carrier under the seat) on most flights to/from Germany, subject to a combined pet + carrier weight limit (typically around 8 kg). Larger pets travel as checked baggage.",
+    "country": "germany",
+    "source": "germany_import.md"
+  },
+  {
+    "id": 24,
+    "text": "- **Air China**: Does not allow pets in the cabin on flights between Germany and China. Pets must travel as checked baggage or air cargo.\n- **Turkish Airlines**: Allows small pets in the cabin on flights between Germany and Turkey, subject to carrier size and weight limits.\n- Always confirm the current cabin/cargo policy, carrier size limits, and any advance booking requirements directly with the airline — policies can change and may differ by route.",
+    "country": "germany",
+    "source": "germany_import.md"
+  },
+  {
+    "id": 25,
+    "text": "## Important Warnings\n- The 21-day waiting period after primary rabies vaccination is mandatory — a pet vaccinated the day before travel is not compliant\n- Always check whether your origin country requires tapeworm treatment before entry into Germany\n- Puppies born during relocation must be at least 15 weeks old before they can travel",
+    "country": "germany",
+    "source": "germany_import.md"
+  },
+  {
+    "id": 26,
+    "text": "## Sources\n- European Commission pet travel rules (EU Regulation 576/2013)\n- German Federal Ministry of Food and Agriculture (BMEL)\n- German customs authority (Zoll)",
+    "country": "germany",
+    "source": "germany_import.md"
+  },
+  {
+    "id": 27,
+    "text": "# Pet Import Regulations — Turkey\n\n## Overview\nTurkey's pet import rules are broadly aligned with EU standards. Dogs and cats with complete documentation — microchip, valid rabies vaccination, and an official health certificate — can enter without quarantine. EU pet passports are accepted for EU residents.\n\n## Required Documents\n- Microchip certificate\n- Rabies vaccination record\n- Official health certificate (or EU pet passport for EU residents)\n- Tapeworm treatment record (dogs only)",
+    "country": "turkey",
+    "source": "turkey_import.md"
+  },
+  {
+    "id": 28,
+    "text": "## Microchip Requirements\n- Standard: ISO 11784/11785\n- The microchip must be implanted before the rabies vaccination is administered\n- If the microchip is implanted after vaccination, the vaccination series must be restarted from the beginning",
+    "country": "turkey",
+    "source": "turkey_import.md"
+  },
+  {
+    "id": 29,
+    "text": "## Vaccination Requirements\n- Rabies vaccination is mandatory for all dogs and cats\n- The vaccination must be at least 21 days old at time of entry (primary vaccination wait period)\n- The vaccination must not be more than 12 months old at time of entry\n- Vaccination must be recorded in the health certificate or EU pet passport",
+    "country": "turkey",
+    "source": "turkey_import.md"
+  },
+  {
+    "id": 30,
+    "text": "## Health Certificate\n- For non-EU residents: an official health certificate issued by an accredited veterinarian is required\n- The certificate must be issued within 10 days of the travel date\n- For EU residents: the EU pet passport is accepted in place of a separate health certificate\n- The certificate or passport must include: microchip number, owner details, vaccination dates, and tapeworm treatment record (for dogs)",
+    "country": "turkey",
+    "source": "turkey_import.md"
+  },
+  {
+    "id": 31,
+    "text": "## Tapeworm Treatment (Dogs Only)\n- Required for dogs entering Turkey\n- The treatment must be administered between 1 and 5 days before the date of entry — not earlier, not later\n- The active ingredient must be praziquantel or an equivalent approved anthelmintic\n- The treatment and date must be recorded by a veterinarian in the health certificate or pet passport",
+    "country": "turkey",
+    "source": "turkey_import.md"
+  },
+  {
+    "id": 32,
+    "text": "## Quarantine Rules\n- No quarantine is required if all documentation is complete and valid\n- If documentation is missing or incorrect, the animal may be held at the border until paperwork is resolved or returned to the country of origin at the owner's expense\n\n## Number of Pets Per Person\n- Passengers may import up to 5 pets per person without a commercial permit\n- More than 5 pets requires a commercial import permit",
+    "country": "turkey",
+    "source": "turkey_import.md"
+  },
+  {
+    "id": 33,
+    "text": "## Airline Policies\nAirline pet policies vary widely and are separate from government import regulations — both must be satisfied.\n- **Turkish Airlines**: Allows small dogs and cats in the cabin (in an IATA-approved carrier, combined pet + carrier weight up to around 8 kg) on most routes to Turkey, in addition to checked-baggage and cargo options for larger pets.",
+    "country": "turkey",
+    "source": "turkey_import.md"
+  },
+  {
+    "id": 34,
+    "text": "- **Lufthansa**: Allows small pets in the cabin under the seat, subject to a combined weight limit of around 8 kg, on flights to Turkey. Larger pets travel as checked baggage.\n- **Pegasus Airlines**: Allows small pets in the cabin on many routes, subject to carrier size and weight limits; advance notice and booking a pet spot is required as cabin space for pets is limited per flight.",
+    "country": "turkey",
+    "source": "turkey_import.md"
+  },
+  {
+    "id": 35,
+    "text": "- Always confirm the current cabin/cargo policy, carrier size limits, and any advance booking requirements directly with the airline — policies can change and may differ by route.",
+    "country": "turkey",
+    "source": "turkey_import.md"
+  },
+  {
+    "id": 36,
+    "text": "## Important Warnings\n- The tapeworm treatment timing is strict — 1 to 5 days before entry. A treatment given 6 days before is non-compliant\n- Book your vet appointment carefully to hit the 1–5 day window relative to your flight date\n- Non-EU residents should ensure their health certificate is endorsed by their national authority if required\n\n## Sources\n- Turkish Ministry of Agriculture and Forestry (TAGEM)\n- EU pet travel rules (applicable as reference standard)",
+    "country": "turkey",
+    "source": "turkey_import.md"
+  }
+]

@@ -1,0 +1,29 @@
+services:
+  mongo:
+    image: mongo:7
+    container_name: petfly-mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+
+  backend:
+    build: .
+    container_name: petfly-backend
+    ports:
+      - "5001:5001"
+    environment:
+      - PORT=5001
+      - MONGO_URI=mongodb+srv://shutingjiang_db_user:Ntrwx8009FTNQvuo@petfly-cluster.jeltano.mongodb.net/petfly?retryWrites=true&w=majority&appName=petfly-cluster
+      - JWT_SECRET=${JWT_SECRET}
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - STRIPE_SECRET_KEY=${STRIPE_SECRET_KEY}
+    env_file:
+      - .env
+    volumes:
+      - ./uploads:/app/uploads
+    depends_on:
+      - mongo
+
+volumes:
+  mongo-data:
