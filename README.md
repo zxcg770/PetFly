@@ -164,3 +164,15 @@ Other team members led the **Stripe payment flow** and the **AI regulation assis
 
 - The original course database is no longer used; a seed script (`npm run seed`) provisions a fresh, self-consistent demo dataset so the app runs end-to-end out of the box.
 - No secrets are committed. Copy `.env.example` to `.env` and supply your own credentials.
+
+---
+
+## 📸 Screenshots
+
+| Browse Requests | My Request Detail |
+|---|---|
+| ![Browse](<img width="1389" height="909" alt="Image" src="https://github.com/user-attachments/assets/b920b97a-1a70-409c-bf70-6e6f8d4d9710" />) | ![Request](<img width="1389" height="909" alt="Image" src="https://github.com/user-attachments/assets/a6e6b4e3-33ce-4e9d-ac4b-48c1b2de8045" />) |
+
+| Message Communication | AI Regulation Assistant |
+|---|---|
+| ![Message](<img width="1389" height="909" alt="Image" src="https://github.com/user-attachments/assets/384fb07b-82f5-4249-b827-9f6b20a549a7" />) | ![RAG](<img width="1389" height="909" alt="Image" src="https://github.com/user-attachments/assets/3923cf79-4497-45da-a13a-d1b4fb082425" />) |
