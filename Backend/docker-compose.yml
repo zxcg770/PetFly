@@ -14,8 +14,7 @@ services:
       - "5001:5001"
     environment:
       - PORT=5001
-      - MONGO_URI=mongodb+srv://shutingjiang_db_user:Ntrwx8009FTNQvuo@petfly-cluster.jeltano.mongodb.net/petfly?retryWrites=true&w=majority&appName=petfly-cluster
-      - JWT_SECRET=${JWT_SECRET}
+      - MONGO_URI={MONGO_URI}
       - GEMINI_API_KEY=${GEMINI_API_KEY}
       - STRIPE_SECRET_KEY=${STRIPE_SECRET_KEY}
     env_file:
